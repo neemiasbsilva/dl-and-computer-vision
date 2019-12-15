@@ -40,3 +40,6 @@ while True:
     # stop the webcan
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
+
+videoCapture.release()
+cv2.destroyAllWindows()
