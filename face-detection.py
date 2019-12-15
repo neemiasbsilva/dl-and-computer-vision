@@ -25,3 +25,18 @@ def detect(gray, frame):
             cv2.rectangle(roi_color, (ex, ey), (ex+ew, ey+eh), (0, 255, 0), 2)
     return frame
 
+# Doing some Face Recognition with the webca
+# create a object to the webcan 0 internal 1 external
+videoCapture = cv2.VideoCapture(0)
+
+while True:
+    _, frame = videoCapture.read()
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+    
+    # result the detection function
+    canvas = detect(gray, frame)
+    cv2.imshow('video', canvas)
+
+    # stop the webcan
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
