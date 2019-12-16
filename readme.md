@@ -6,7 +6,7 @@ The principle goal of this repository is to show some of my skill in computer vi
 
 <p style="font-size:18px"> The Result of a Simple Application of Computer Vision to Detect Smile Emotion</p>
 
-<img src="smile-result.png" width="256">
+<img src="smile.png" width="256">
 
 
 #
