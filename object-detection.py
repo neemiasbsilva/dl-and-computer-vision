@@ -41,5 +41,10 @@ def detect(frame, net, transform):
     return frame
 
 # Create the SSD Neural Network
+net = build_ssd('test')
+
+net.load_state_dict(torch.load('ssd300_mAP_77.43_v2.pth', map_location = lambda storage, loc:storage))
+
+
 
 
