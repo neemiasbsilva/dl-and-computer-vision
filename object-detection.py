@@ -40,3 +40,6 @@ def detect(frame, net, transform):
 
     return frame
 
+# Create the SSD Neural Network
+
+
