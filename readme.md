@@ -4,11 +4,14 @@ The principle goal of this repository is to show some of my skill in computer vi
 
 #
 
-The result of a simple application of computer vision to detect smile emotion
+<p style="font-size:18px"> The result of a simple application of computer vision to detect smile emotion</p>
+
 ![Smile and Face Detect](smile-result.png)
+
 #
 
-The result of the **Face Detection** with **OpenCV** 
+<p style="font-size:18px">The result of the <b>Face Detection</b> with <b>OpenCV</b> 
+</p>
 
 ![Face and eyes Detect](face-eye.png)
 
