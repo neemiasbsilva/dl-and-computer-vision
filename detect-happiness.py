@@ -15,8 +15,8 @@ def detect(gray, frame):
         roi_color = frame[y:y+h, x:x+w]
         smiles = smile_cascade.detectMultiScale(roi_gray, 1.8, 20)
 
-        for (sx, sy, sw, sh) in faces:
-            cv2.rectangle(frame, (sx, sy), ((sx+sw), (sy+sh)), (255, 0, 0), 2)
+        for (sx, sy, sw, sh) in smiles:
+            cv2.rectangle(roi_color, (sx, sy), ((sx+sw), (sy+sh)), (255, 0, 0), 2)
 
     return frame    
 
