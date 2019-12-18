@@ -14,9 +14,9 @@ The principle goal of this repository is to show some of my skill in computer vi
     <li> <b>object-detection</b>: is hart of the model SSD;
     <li> <b>ssd.py</b>: contains the architecture multibox detection model.
 </ul>
-The Result of Object Detection Using <b>Single Shot Mutibox Detector (SSD)</b>:
-<img src='result-detect-dog.png' width="256">
-</p>
+The Result of Object Detection Using <b>Single Shot Mutibox Detector (SSD)</b>:</p>
+<img src='result-detect-dog.png' width="512">
+
 #
 
 <p style="font-size:18px"> The Result of a Simple Application of Computer Vision to Detect Smile Emotion with <b>OpenCV</b>:</p>
