@@ -21,7 +21,7 @@ The Result of Object Detection Using <b>Single Shot Mutibox Detector (SSD)</b>:<
 
 <p style="font-size:18px"> The Result of a Simple Application of Computer Vision to Detect Smile Emotion with <b>OpenCV</b>:</p>
 
-<img src="smile.png" width="256">
+<img src="result-face-detection/smile.png" width="256">
 
 
 #
@@ -29,7 +29,7 @@ The Result of Object Detection Using <b>Single Shot Mutibox Detector (SSD)</b>:<
 <p style="font-size:18px">The Result of the <b>Face Detection</b> with <b>OpenCV:</b> 
 </p>
 
-<img src="face-eye.png" width="256">
+<img src="result-face-detection/face-eye.png" width="256">
 
 
 
