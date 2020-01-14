@@ -15,7 +15,7 @@ The principle goal of this repository is to show some of my skill in computer vi
     <li> <b>ssd.py</b>: contains the architecture multibox detection model.
 </ul>
 The Result of Object Detection Using <b>Single Shot Mutibox Detector (SSD)</b>:</p>
-<img src='result-detect-dog.png' width="512">
+<img src='result-dog-detection/result-detect-dog.png' width="512">
 
 #
 
