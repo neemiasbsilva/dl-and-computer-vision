@@ -18,7 +18,8 @@ The principle goal of this repository is to show some of my skill in computer vi
     <li> <b>funny_dog.mp4</b>: will try to detect;
     <li> <b>Multibox detection</b>: <a href="layers">layers</a>;
     <li> <b>The heart of the model SSD</b>: <a href="dog-detection">dog-detection</a>;
-    <li> <b>Archtecture</b>: <a href="ssd.py">ssd.py</a>.
+    <li> <b>Archtecture</b>: <a href="ssd.py">ssd.py</a>;
+    <li> <b>and See the Result</b>: <a href="result-dog-detection">result-dog-detection</a>.
 </ul>
 The Result of Object Detection Using <b>Single Shot Mutibox Detector (SSD)</b>:</p>
 <img src='result-dog-detection/result-detect-dog.png' width="512">
