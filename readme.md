@@ -6,8 +6,8 @@ The principle goal of this repository is to show some of my skill in computer vi
 <p style="font-size:18px"> The result of a simple application of Computer Vision using <b>OpenCv</b> to detect face, eyes, and smile emotion can be access the following folders::</p>
 
 <ul>
-    <li>To codes: <a href="face-eyes-smile-detection">face-eyes-smile-detection </a>;
-    <li>To result: <a href="result-face-detection"> result-face-detection</a>.
+    <li> <b>To view codes:</b> <a href="face-eyes-smile-detection">face-eyes-smile-detection </a>;
+    <li> <b> and See the result:</b> <a href="result-face-detection"> result-face-detection</a>.
 </ul>
 
 <p style="font-size:18px">  The next concept its using pytorch to combine <b>Deep Learning</b> and <b>Computer Vision</b>. The architecture using was Single Show Multibox Detector (SSD) to detect a human and dog the video <i>funny_dog.mp4</i>.</p>
